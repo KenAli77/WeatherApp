@@ -5,7 +5,7 @@
 
 Simple Weather App, built entirely in Kotlin using modern architecture components.
 
-#
+
 ## Features
 
 
@@ -14,7 +14,7 @@ Simple Weather App, built entirely in Kotlin using modern architecture component
 🕛 - Hourly forecast
 📅 - Forecast for the coming 7 days
 
-#
+
 ## Build 🏗️
 
 Weather App is built following Clean Architecture guidelines and MVI using the following components:
