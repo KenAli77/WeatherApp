@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="error_location">Could not retrieve location, please check permissions and enable location</string>
+    <string name="Clear_sky">Clear sky</string>
+    <string name="Mainly_clear">Mainly clear</string>
+    <string name="Partly_cloudy">Partly cloudy</string>
+    <string name="Overcast">Overcast</string>
+    <string name="Foggy">Foggy</string>
+    <string name="Depositing_rime_fog">Depositing rime fog</string>
+    <string name="Light_drizzle">Light drizzle</string>
+    <string name="Moderate_drizzle">Moderate drizzle</string>
+    <string name="Dense_drizzle">Dense drizzle</string>
+    <string name="Light_freezing_drizzle">Light freezing drizzle</string>
+    <string name="Dense_freezing_drizzle">Dense freezing drizzle</string>
+    <string name="Slight_rain">Slight rain</string>
+    <string name="Rainy">Rainy</string>
+    <string name="Heavy_rain">Heavy rain</string>
+    <string name="Heavy_freezing_rain">Heavy freezing rain</string>
+    <string name="Slight_snow_fall">Slight snow fall</string>
+    <string name="Moderate_snow_fall">Moderate snow fall</string>
+    <string name="Heavy_snow_fall">Heavy snow fall</string>
+    <string name="Snow_grains">Snow grains</string>
+    <string name="light_showers">light showers</string>
+    <string name="Moderate_showers">Moderate showers</string>
+    <string name="Violent_showers">Violent showers</string>
+    <string name="Light_snow_showers">Light snow showers</string>
+    <string name="Heavy_snow_showers">Heavy snow showers</string>
+    <string name="Moderate_thunderstorm">Moderate thunderstorm</string>
+    <string name="Thunderstorm_with_hail">Thunderstorm with hail</string>
+    <string name="Thunderstorm_with_heavy_hail">Thunderstorm with heavy hail</string>
+    <string name="feels_like">feels like</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="seven_days_forecast">7 days forecast</string>
+</resources>
