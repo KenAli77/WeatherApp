@@ -1,13 +1,13 @@
 
 
 # Weather App
----
+
 
 Simple Weather App, built entirely in Kotlin using modern architecture components.
 
 #
 ## Features
----
+
 
 
 ☀️ - Current weather
@@ -16,7 +16,7 @@ Simple Weather App, built entirely in Kotlin using modern architecture component
 
 #
 ## Build 🏗️
----
+
 Weather App is built following Clean Architecture guidelines and MVI using the following components:
 
 - [Kotlin]() - Android's official programming language
