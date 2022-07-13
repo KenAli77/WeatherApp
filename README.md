@@ -1,4 +1,5 @@
 
+![](https://github.com/kenali95/WeatherApp/blob/master/Weather%20App%20GitHub%20Banner.png)
 
 # Weather App
 
@@ -10,9 +11,9 @@ Simple Weather App, built entirely in Kotlin using modern architecture component
 
 
 
-☀️ - Current weather
-🕛 - Hourly forecast
-📅 - Forecast for the coming 7 days
+- ☀️  Current weather
+- 🕛  Hourly forecast
+- 📅  Forecast for the coming 7 days
 
 
 ## Build 🏗️
